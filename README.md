@@ -1,5 +1,5 @@
 
-# Lite Client but its legit modules only
+# Lite Client but its legit modules only kinda lol
 
 ```
 Credits:
